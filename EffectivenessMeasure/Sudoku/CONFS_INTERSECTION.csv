@@ -1,0 +1,49 @@
+Test	Confs. (features enabled)
+tests.TestMAB.test01(TestMAB.java:32)	GENERATOR, SOLVER, STATES, UNDO
+tests.TestMAB.test01(TestMAB.java:32)	COLOR, EXTENDEDSUDOKU
+tests.TestMAB.test01(TestMAB.java:32)	COLOR, STATES, UNDO
+tests.TestMAB.test01(TestMAB.java:32)	COLOR, SOLVER, STATES, UNDO
+tests.TestMAB.test01(TestMAB.java:32)	EXTENDEDSUDOKU, STATES
+tests.TestMAB.test01(TestMAB.java:32)	COLOR, EXTENDEDSUDOKU, GENERATOR, SOLVER, STATES, UNDO
+tests.TestMAB.test01(TestMAB.java:32)	COLOR, GENERATOR, SOLVER, STATES, UNDO
+tests.TestMAB.test01(TestMAB.java:32)	EXTENDEDSUDOKU, STATES, UNDO
+tests.TestMAB.test01(TestMAB.java:32)	EXTENDEDSUDOKU
+tests.TestMAB.test01(TestMAB.java:32)	COLOR
+tests.TestMAB.test01(TestMAB.java:32)	EXTENDEDSUDOKU, GENERATOR, SOLVER, STATES, UNDO
+tests.TestMAB.test01(TestMAB.java:32)	COLOR, EXTENDEDSUDOKU, SOLVER, STATES, UNDO
+tests.TestMAB.test01(TestMAB.java:32)	STATES
+tests.TestMAB.test01(TestMAB.java:32)	COLOR, STATES
+tests.TestMAB.test01(TestMAB.java:32)	EXTENDEDSUDOKU, SOLVER, STATES, UNDO
+tests.TestMAB.test01(TestMAB.java:32)	SOLVER, STATES, UNDO
+tests.TestMAB.test01(TestMAB.java:32)	COLOR, EXTENDEDSUDOKU, STATES, UNDO
+tests.TestMAB.test01(TestMAB.java:32)	
+tests.TestMAB.test01(TestMAB.java:32)	COLOR, EXTENDEDSUDOKU, STATES
+tests.TestMAB.test01(TestMAB.java:32)	STATES, UNDO
+tests.TestMAB.test02(TestMAB.java:48)	EXTENDEDSUDOKU, GENERATOR, SOLVER, STATES, UNDO
+tests.TestMAB.test02(TestMAB.java:48)	COLOR, EXTENDEDSUDOKU, GENERATOR, SOLVER, STATES, UNDO
+tests.TestMAB.test02(TestMAB.java:53)	STATES
+tests.TestMAB.test02(TestMAB.java:53)	COLOR, EXTENDEDSUDOKU, STATES, UNDO
+tests.TestMAB.test02(TestMAB.java:53)	
+tests.TestMAB.test02(TestMAB.java:53)	COLOR, STATES
+tests.TestMAB.test02(TestMAB.java:53)	COLOR
+tests.TestMAB.test02(TestMAB.java:53)	EXTENDEDSUDOKU
+tests.TestMAB.test02(TestMAB.java:53)	EXTENDEDSUDOKU, STATES
+tests.TestMAB.test02(TestMAB.java:53)	COLOR, EXTENDEDSUDOKU, STATES
+tests.TestMAB.test02(TestMAB.java:53)	COLOR, STATES, UNDO
+tests.TestMAB.test02(TestMAB.java:53)	EXTENDEDSUDOKU, STATES, UNDO
+tests.TestMAB.test02(TestMAB.java:53)	STATES, UNDO
+tests.TestMAB.test02(TestMAB.java:53)	COLOR, EXTENDEDSUDOKU
+tests.TestMAB.test03(TestMAB.java:71)	SOLVER, STATES, UNDO
+tests.TestMAB.test03(TestMAB.java:71)	COLOR
+tests.TestMAB.test03(TestMAB.java:71)	STATES
+tests.TestMAB.test03(TestMAB.java:71)	GENERATOR, SOLVER, STATES, UNDO
+tests.TestMAB.test03(TestMAB.java:71)	COLOR, STATES
+tests.TestMAB.test03(TestMAB.java:71)	COLOR, SOLVER, STATES, UNDO
+tests.TestMAB.test03(TestMAB.java:71)	COLOR, GENERATOR, SOLVER, STATES, UNDO
+tests.TestMAB.test03(TestMAB.java:71)	
+tests.TestMAB.test03(TestMAB.java:71)	STATES, UNDO
+tests.TestMAB.test03(TestMAB.java:71)	COLOR, STATES, UNDO
+tests.TestMAB.test03(TestMAB.java:76)	COLOR, EXTENDEDSUDOKU, GENERATOR, SOLVER, STATES, UNDO
+tests.TestMAB.test03(TestMAB.java:76)	EXTENDEDSUDOKU, SOLVER, STATES, UNDO
+tests.TestMAB.test03(TestMAB.java:76)	COLOR, EXTENDEDSUDOKU, SOLVER, STATES, UNDO
+tests.TestMAB.test03(TestMAB.java:76)	EXTENDEDSUDOKU, GENERATOR, SOLVER, STATES, UNDO

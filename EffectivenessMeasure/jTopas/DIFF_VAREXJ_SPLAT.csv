@@ -1,0 +1,17 @@
+Test	Confs. (features enabled)
+tests.TestPatternMatching.testPatternExt(TestPatternMatching.java:105)	LINECOMMENTS
+tests.TestPatternMatching.testPatternExt(TestPatternMatching.java:105)	BLOCKCOMMENTS, COUNTLINES, LINECOMMENTS
+tests.TestPatternMatching.testPatternExt(TestPatternMatching.java:105)	COUNTLINES, IMAGEPARTS, LINECOMMENTS, TOKENPOSONLY
+tests.TestPatternMatching.testPatternExt(TestPatternMatching.java:105)	BLOCKCOMMENTS, LINECOMMENTS
+tests.TestPatternMatching.testPatternExt(TestPatternMatching.java:105)	BLOCKCOMMENTS, COUNTLINES, LINECOMMENTS, TOKENPOSONLY
+tests.TestPatternMatching.testPatternExt(TestPatternMatching.java:105)	IMAGEPARTS, LINECOMMENTS, TOKENPOSONLY
+tests.TestPatternMatching.testPatternExt(TestPatternMatching.java:105)	COUNTLINES, LINECOMMENTS
+tests.TestPatternMatching.testPatternExt(TestPatternMatching.java:105)	COUNTLINES, IMAGEPARTS, LINECOMMENTS
+tests.TestPatternMatching.testPatternExt(TestPatternMatching.java:105)	BLOCKCOMMENTS, COUNTLINES, IMAGEPARTS, LINECOMMENTS, TOKENPOSONLY
+tests.TestPatternMatching.testPatternExt(TestPatternMatching.java:105)	BLOCKCOMMENTS, COUNTLINES, IMAGEPARTS, LINECOMMENTS
+tests.TestPatternMatching.testPatternExt(TestPatternMatching.java:105)	BLOCKCOMMENTS, IMAGEPARTS, LINECOMMENTS, TOKENPOSONLY
+tests.TestPatternMatching.testPatternExt(TestPatternMatching.java:105)	BLOCKCOMMENTS, LINECOMMENTS, TOKENPOSONLY
+tests.TestPatternMatching.testPatternExt(TestPatternMatching.java:105)	BLOCKCOMMENTS, IMAGEPARTS, LINECOMMENTS
+tests.TestPatternMatching.testPatternExt(TestPatternMatching.java:105)	IMAGEPARTS, LINECOMMENTS
+tests.TestPatternMatching.testPatternExt(TestPatternMatching.java:105)	LINECOMMENTS, TOKENPOSONLY
+tests.TestPatternMatching.testPatternExt(TestPatternMatching.java:105)	COUNTLINES, LINECOMMENTS, TOKENPOSONLY

@@ -1,0 +1,8 @@
+Feature Model: BLOCKCOMMENTS | COUNTLINES | IMAGEPARTS | LINECOMMENTS | TOKENPOSONLY | ~BLOCKCOMMENTS | ~COUNTLINES | ~IMAGEPARTS | ~LINECOMMENTS | ~TOKENPOSONLY
+Max possible products: 32 
+
+Total failure pairs by VarexJ: 16
+Total failure pairs by SPLat: 28
+Intersection between VarexJ and SPLat: 0
+Failure pairs by VarexJ and not by SPLat: 16
+Failure pairs by SPLat and not by VarexJ: 28

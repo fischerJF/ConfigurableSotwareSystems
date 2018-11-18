@@ -1,0 +1,11 @@
+#Analise do log do VarexJ para a SPL zipme
+
+>>> python zipme/zipme.py 
+More features besides FM: [ARCHIVECHECK]
+All possible products: 48
+24 products failed by ARCHIVECHECK
+4 products failed by DERIVATIVE_COMPRESS_GZIPCRC & EXTRACT & GZIP
+32 products failed by ~GZIP
+24 products failed by ~EXTRACT
+Total failed products: 84
+

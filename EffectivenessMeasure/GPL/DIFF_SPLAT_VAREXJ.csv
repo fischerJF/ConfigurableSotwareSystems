@@ -1,0 +1,194 @@
+Test	Confs. (features enabled)
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, DIRECTED, SEARCH
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, DIRECTED, NUMBER, SEARCH, WEIGHTED
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, DIRECTED, SEARCH, WEIGHTED
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, CONNECTED, SEARCH, UNDIRECTED
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, MSTKRUSKAL, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, SEARCH, UNDIRECTED
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, CONNECTED, MSTKRUSKAL, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, CONNECTED, NUMBER, SEARCH, UNDIRECTED
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, CONNECTED, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, CONNECTED, MSTPRIM, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, NUMBER, SEARCH, UNDIRECTED
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, CONNECTED, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, MSTPRIM, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, DIRECTED, NUMBER, SEARCH, SHORTEST, WEIGHTED
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, MSTKRUSKAL, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, CONNECTED, MSTPRIM, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, CONNECTED, MSTKRUSKAL, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, DIRECTED, NUMBER, SEARCH
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, DIRECTED, SEARCH, SHORTEST, WEIGHTED
+tests.MultiFeatureTest_Caio.bftSearch(MultiFeatureTest_Caio.java:233)	BFS, MSTPRIM, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.displayTest(MultiFeatureTest_Caio.java:37)	BFS, CONNECTED, MSTPRIM, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.displayTest(MultiFeatureTest_Caio.java:37)	BFS, CONNECTED, MSTKRUSKAL, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.displayTest(MultiFeatureTest_Caio.java:37)	BFS, CONNECTED, NUMBER, SEARCH, UNDIRECTED
+tests.MultiFeatureTest_Caio.displayTest(MultiFeatureTest_Caio.java:37)	BFS, CONNECTED, MSTPRIM, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.displayTest(MultiFeatureTest_Caio.java:37)	BFS, CONNECTED, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.displayTest(MultiFeatureTest_Caio.java:37)	BFS, CONNECTED, MSTKRUSKAL, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.displayTest(MultiFeatureTest_Caio.java:37)	BFS, CONNECTED, SEARCH, UNDIRECTED
+tests.MultiFeatureTest_Caio.displayTest(MultiFeatureTest_Caio.java:37)	BFS, CONNECTED, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.displayTest(MultiFeatureTest_Caio.java:40)	BFS, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.displayTest(MultiFeatureTest_Caio.java:40)	BFS, DIRECTED, NUMBER, SEARCH, WEIGHTED
+tests.MultiFeatureTest_Caio.displayTest(MultiFeatureTest_Caio.java:40)	BFS, MSTKRUSKAL, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.displayTest(MultiFeatureTest_Caio.java:40)	BFS, MSTPRIM, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.displayTest(MultiFeatureTest_Caio.java:40)	BFS, DIRECTED, NUMBER, SEARCH, SHORTEST, WEIGHTED
+tests.MultiFeatureTest_Caio.displayTest(MultiFeatureTest_Caio.java:40)	BFS, DIRECTED, NUMBER, SEARCH
+tests.MultiFeatureTest_Caio.displayTest(MultiFeatureTest_Caio.java:40)	BFS, NUMBER, SEARCH, UNDIRECTED
+tests.MultiFeatureTest_Caio.displayTest(MultiFeatureTest_Caio.java:45)	BFS, DIRECTED, SEARCH, SHORTEST, WEIGHTED
+tests.MultiFeatureTest_Caio.displayTest(MultiFeatureTest_Caio.java:45)	BFS, MSTKRUSKAL, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.displayTest(MultiFeatureTest_Caio.java:45)	BFS, MSTPRIM, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.GraphSearchConnected(MultiFeatureTest_Caio.java:145)	BFS, CONNECTED, MSTKRUSKAL, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.GraphSearchConnected(MultiFeatureTest_Caio.java:145)	BFS, CONNECTED, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.GraphSearchConnected(MultiFeatureTest_Caio.java:145)	BFS, CONNECTED, MSTKRUSKAL, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.GraphSearchConnected(MultiFeatureTest_Caio.java:145)	BFS, CONNECTED, MSTPRIM, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.GraphSearchConnected(MultiFeatureTest_Caio.java:145)	BFS, CONNECTED, SEARCH, UNDIRECTED
+tests.MultiFeatureTest_Caio.GraphSearchConnected(MultiFeatureTest_Caio.java:145)	BFS, CONNECTED, NUMBER, SEARCH, UNDIRECTED
+tests.MultiFeatureTest_Caio.GraphSearchConnected(MultiFeatureTest_Caio.java:145)	BFS, CONNECTED, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.GraphSearchConnected(MultiFeatureTest_Caio.java:145)	BFS, CONNECTED, MSTPRIM, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.GraphSearchNumber(MultiFeatureTest_Caio.java:126)	BFS, MSTKRUSKAL, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.GraphSearchNumber(MultiFeatureTest_Caio.java:126)	BFS, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.GraphSearchNumber(MultiFeatureTest_Caio.java:126)	BFS, DIRECTED, NUMBER, SEARCH
+tests.MultiFeatureTest_Caio.GraphSearchNumber(MultiFeatureTest_Caio.java:126)	BFS, NUMBER, SEARCH, UNDIRECTED
+tests.MultiFeatureTest_Caio.GraphSearchNumber(MultiFeatureTest_Caio.java:126)	BFS, MSTPRIM, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.GraphSearchNumber(MultiFeatureTest_Caio.java:126)	BFS, DIRECTED, NUMBER, SEARCH, SHORTEST, WEIGHTED
+tests.MultiFeatureTest_Caio.GraphSearchNumber(MultiFeatureTest_Caio.java:126)	BFS, CONNECTED, MSTKRUSKAL, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.GraphSearchNumber(MultiFeatureTest_Caio.java:126)	BFS, CONNECTED, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.GraphSearchNumber(MultiFeatureTest_Caio.java:126)	BFS, CONNECTED, MSTPRIM, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.GraphSearchNumber(MultiFeatureTest_Caio.java:126)	BFS, CONNECTED, NUMBER, SEARCH, UNDIRECTED
+tests.MultiFeatureTest_Caio.GraphSearchNumber(MultiFeatureTest_Caio.java:126)	BFS, DIRECTED, NUMBER, SEARCH, WEIGHTED
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, DIRECTED, SEARCH, WEIGHTED
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, MSTKRUSKAL, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, CONNECTED, MSTPRIM, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, CONNECTED, MSTKRUSKAL, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, CONNECTED, SEARCH, UNDIRECTED
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, DIRECTED, NUMBER, SEARCH
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, CONNECTED, MSTKRUSKAL, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, CONNECTED, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, CONNECTED, NUMBER, SEARCH, UNDIRECTED
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, DIRECTED, SEARCH
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, CONNECTED, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, MSTPRIM, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, DIRECTED, NUMBER, SEARCH, SHORTEST, WEIGHTED
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, SEARCH, UNDIRECTED
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, DIRECTED, SEARCH, SHORTEST, WEIGHTED
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, CONNECTED, MSTPRIM, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, MSTKRUSKAL, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, MSTPRIM, SEARCH, UNDIRECTED, WEIGHTED
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, NUMBER, SEARCH, UNDIRECTED
+tests.MultiFeatureTest_Caio.NodeSearchBFS(MultiFeatureTest_Caio.java:197)	BFS, DIRECTED, NUMBER, SEARCH, WEIGHTED
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, MSTKRUSKAL, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, CONNECTED, MSTPRIM, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, SEARCH, UNDIRECTED
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, DIRECTED, NUMBER, SEARCH, WEIGHTED
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, DIRECTED, SEARCH, SHORTEST, WEIGHTED
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, CONNECTED, MSTPRIM, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, DIRECTED, SEARCH, WEIGHTED
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, CONNECTED, SEARCH, UNDIRECTED
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, CONNECTED, MSTKRUSKAL, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, DIRECTED, SEARCH
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, MSTPRIM, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, MSTPRIM, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, MSTKRUSKAL, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, CONNECTED, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, DIRECTED, NUMBER, SEARCH
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, CONNECTED, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, NUMBER, SEARCH, UNDIRECTED
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, DIRECTED, NUMBER, SEARCH, SHORTEST, WEIGHTED
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, CONNECTED, NUMBER, SEARCH, UNDIRECTED
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_bftNodeSearch(TestSuite_NEW.java:339)	BFS, CONNECTED, MSTKRUSKAL, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run1(TestSuite_NEW.java:105)	BFS, DIRECTED, NUMBER, SEARCH, SHORTEST, WEIGHTED
+tests.TestSuite_NEW.test_run1(TestSuite_NEW.java:105)	DIRECTED, NUMBER, SHORTEST, WEIGHTED
+tests.TestSuite_NEW.test_run1(TestSuite_NEW.java:105)	DIRECTED, SHORTEST, WEIGHTED
+tests.TestSuite_NEW.test_run1(TestSuite_NEW.java:105)	BFS, CONNECTED, SEARCH, UNDIRECTED
+tests.TestSuite_NEW.test_run1(TestSuite_NEW.java:105)	BFS, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run1(TestSuite_NEW.java:105)	BFS, DIRECTED, NUMBER, SEARCH
+tests.TestSuite_NEW.test_run1(TestSuite_NEW.java:105)	BFS, NUMBER, SEARCH, UNDIRECTED
+tests.TestSuite_NEW.test_run1(TestSuite_NEW.java:105)	BFS, DIRECTED, NUMBER, SEARCH, WEIGHTED
+tests.TestSuite_NEW.test_run1(TestSuite_NEW.java:105)	BFS, DIRECTED, SEARCH, SHORTEST, WEIGHTED
+tests.TestSuite_NEW.test_run1(TestSuite_NEW.java:105)	BFS, CONNECTED, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run1(TestSuite_NEW.java:105)	BFS, CONNECTED, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run1(TestSuite_NEW.java:105)	BFS, CONNECTED, NUMBER, SEARCH, UNDIRECTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	MSTKRUSKAL, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	BFS, NUMBER, SEARCH, UNDIRECTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	BFS, CONNECTED, MSTPRIM, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	CONNECTED, MSTKRUSKAL, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	CONNECTED, MSTPRIM, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	BFS, DIRECTED, NUMBER, SEARCH, SHORTEST, WEIGHTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	MSTKRUSKAL, NUMBER, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	BFS, CONNECTED, MSTPRIM, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	MSTPRIM, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	BFS, CONNECTED, SEARCH, UNDIRECTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	BFS, DIRECTED, NUMBER, SEARCH, WEIGHTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	BFS, CONNECTED, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	BFS, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	BFS, DIRECTED, NUMBER, SEARCH
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	BFS, CONNECTED, NUMBER, SEARCH, UNDIRECTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	BFS, MSTPRIM, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	CONNECTED, MSTPRIM, NUMBER, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	BFS, CONNECTED, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	BFS, MSTPRIM, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	CONNECTED, MSTKRUSKAL, NUMBER, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	BFS, MSTKRUSKAL, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	BFS, CONNECTED, MSTKRUSKAL, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	BFS, CONNECTED, MSTKRUSKAL, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	MSTPRIM, NUMBER, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run2(TestSuite_NEW.java:162)	BFS, MSTKRUSKAL, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run3(TestSuite_NEW.java:207)	BFS, DIRECTED, NUMBER, SEARCH
+tests.TestSuite_NEW.test_run3(TestSuite_NEW.java:207)	BFS, CONNECTED, MSTPRIM, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run3(TestSuite_NEW.java:207)	BFS, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run3(TestSuite_NEW.java:207)	BFS, CONNECTED, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run3(TestSuite_NEW.java:207)	BFS, DIRECTED, NUMBER, SEARCH, WEIGHTED
+tests.TestSuite_NEW.test_run3(TestSuite_NEW.java:207)	BFS, MSTPRIM, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run3(TestSuite_NEW.java:207)	BFS, CONNECTED, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run3(TestSuite_NEW.java:207)	BFS, CONNECTED, MSTPRIM, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run3(TestSuite_NEW.java:207)	BFS, NUMBER, SEARCH, UNDIRECTED
+tests.TestSuite_NEW.test_run3(TestSuite_NEW.java:207)	BFS, CONNECTED, SEARCH, UNDIRECTED
+tests.TestSuite_NEW.test_run3(TestSuite_NEW.java:207)	BFS, CONNECTED, MSTKRUSKAL, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run3(TestSuite_NEW.java:207)	BFS, DIRECTED, NUMBER, SEARCH, SHORTEST, WEIGHTED
+tests.TestSuite_NEW.test_run3(TestSuite_NEW.java:207)	BFS, MSTKRUSKAL, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_run3(TestSuite_NEW.java:207)	BFS, CONNECTED, NUMBER, SEARCH, UNDIRECTED
+tests.TestSuite_NEW.test_run3(TestSuite_NEW.java:207)	BFS, CONNECTED, MSTKRUSKAL, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, MSTPRIM, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, DIRECTED, NUMBER, SEARCH, SHORTEST, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	CONNECTED, MSTKRUSKAL, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	MSTPRIM, NUMBER, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, CONNECTED, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, MSTKRUSKAL, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, CONNECTED, MSTKRUSKAL, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, NUMBER, SEARCH, UNDIRECTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	CONNECTED, NUMBER, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	DIRECTED, NUMBER, SHORTEST, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, CONNECTED, MSTPRIM, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, SEARCH, UNDIRECTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, DIRECTED, NUMBER, SEARCH, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	DIRECTED, NUMBER, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, CONNECTED, SEARCH, UNDIRECTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, DIRECTED, SEARCH
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	CONNECTED, MSTKRUSKAL, NUMBER, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	DIRECTED, SHORTEST, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	CONNECTED, MSTPRIM, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, CONNECTED, NUMBER, SEARCH, UNDIRECTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	CONNECTED, MSTPRIM, NUMBER, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, DIRECTED, SEARCH, SHORTEST, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, MSTPRIM, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	MSTKRUSKAL, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, CONNECTED, MSTPRIM, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	NUMBER, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, DIRECTED, SEARCH, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, DIRECTED, NUMBER, SEARCH
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	MSTKRUSKAL, NUMBER, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	DIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, CONNECTED, MSTKRUSKAL, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	MSTPRIM, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, CONNECTED, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	BFS, MSTKRUSKAL, NUMBER, SEARCH, UNDIRECTED, WEIGHTED
+tests.TestSuite_NEW.test_StrongComps(TestSuite_NEW.java:253)	CONNECTED, UNDIRECTED, WEIGHTED

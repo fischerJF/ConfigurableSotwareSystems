@@ -1,0 +1,203 @@
+Test	Confs. (features enabled)
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_MANAGER, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	GUI, LOGGING, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_DEPARTMENT, GUI, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	LOGGING, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_WHATEVER, GUI, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_DEPARTMENT, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_WHATEVER, GUI, LOGGING, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	GUI, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	GUI, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_WHATEVER, GUI, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_WHATEVER, LOGGING, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_WHATEVER, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_DEPARTMENT, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_MANAGER, GUI, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_WHATEVER, GUI, LOGGING, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	GUI, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_WHATEVER, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_WHATEVER, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, LOGGING, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_MANAGER, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_MANAGER, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, GUI, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_WHATEVER, GUI, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_WHATEVER, GUI, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_WHATEVER, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	GUI, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_MANAGER, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_WHATEVER, GUI, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, GUI, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_MANAGER, GUI, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	GUI, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, GUI, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_WHATEVER, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_DEPARTMENT, GUI, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_WHATEVER, GUI, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_MANAGER, GUI, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, GUI, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_DEPARTMENT, LOGGING, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, GUI, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_WHATEVER, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_MANAGER, GUI, LOGGING, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_MANAGER, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_DEPARTMENT, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_MANAGER, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_DEPARTMENT, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, GUI, LOGGING, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_WHATEVER, GUI, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_DEPARTMENT, GUI, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_DEPARTMENT, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_DEPARTMENT, GUI, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_WHATEVER, GUI, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_DEPARTMENT, GUI, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_MANAGER, GUI, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_DEPARTMENT, GUI, LOGGING, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_WHATEVER, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_WHATEVER, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, LOGGING, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_WHATEVER, GUI, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, LOGGING, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_MANAGER, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_MANAGER, LOGGING, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_WHATEVER, GUI, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	ACCESS_CONTROL, CUT_NO_MANAGER, PRECEDENCE
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:25)	CUT_NO_MANAGER, GUI, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	CUT_WHATEVER, GUI, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	CUT_NO_DEPARTMENT, GUI, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	GUI, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	CUT_NO_MANAGER, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, CUT_WHATEVER, GUI, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	GUI, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	CUT_NO_DEPARTMENT, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, GUI
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	CUT_WHATEVER, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	CUT_NO_MANAGER, GUI, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	CUT_NO_DEPARTMENT, GUI, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	CUT_NO_DEPARTMENT, GUI
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, CUT_WHATEVER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	CUT_WHATEVER, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	CUT_NO_DEPARTMENT
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, CUT_NO_MANAGER, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, CUT_NO_DEPARTMENT
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	CUT_WHATEVER, GUI
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	GUI
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	CUT_WHATEVER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	CUT_NO_MANAGER, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, CUT_WHATEVER, GUI, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, CUT_NO_MANAGER, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, CUT_NO_MANAGER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, GUI, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	CUT_NO_MANAGER, GUI, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	CUT_NO_MANAGER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	CUT_WHATEVER, GUI, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	CUT_NO_DEPARTMENT, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, CUT_WHATEVER, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, GUI, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	CUT_NO_MANAGER, GUI
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, CUT_WHATEVER, TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, CUT_WHATEVER, GUI
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL, TOTAL_REDUCER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	TOTAL_WALKER
+tests.Pilot_REPAIR.test6(Pilot_REPAIR.java:27)	ACCESS_CONTROL
+tests.TestBasics.testTotalPojo(TestBasics.java:53)	ACCESS_CONTROL, GUI, LOGGING, PRECEDENCE
+tests.TestBasics.testTotalPojo(TestBasics.java:53)	GUI, LOGGING, PRECEDENCE
+tests.TestBasics.testTotalPojo(TestBasics.java:53)	GUI, PRECEDENCE
+tests.TestBasics.testTotalPojo(TestBasics.java:53)	ACCESS_CONTROL, GUI, LOGGING
+tests.TestBasics.testTotalPojo(TestBasics.java:53)	ACCESS_CONTROL
+tests.TestBasics.testTotalPojo(TestBasics.java:53)	ACCESS_CONTROL, PRECEDENCE
+tests.TestBasics.testTotalPojo(TestBasics.java:53)	ACCESS_CONTROL, LOGGING
+tests.TestBasics.testTotalPojo(TestBasics.java:53)	GUI
+tests.TestBasics.testTotalPojo(TestBasics.java:53)	ACCESS_CONTROL, GUI, PRECEDENCE
+tests.TestBasics.testTotalPojo(TestBasics.java:53)	LOGGING
+tests.TestBasics.testTotalPojo(TestBasics.java:53)	ACCESS_CONTROL, GUI
+tests.TestBasics.testTotalPojo(TestBasics.java:53)	
+tests.TestBasics.testTotalPojo(TestBasics.java:53)	GUI, LOGGING
+tests.TestBasics.testTotalPojo(TestBasics.java:53)	PRECEDENCE
+tests.TestBasics.testTotalPojo(TestBasics.java:53)	LOGGING, PRECEDENCE
+tests.TestBasics.testTotalPojo(TestBasics.java:53)	ACCESS_CONTROL, LOGGING, PRECEDENCE
+tests.TestCombinations.checkForDisabledReadAccess(TestCombinations.java:90)	PRECEDENCE
+tests.TestCombinations.checkForDisabledReadAccess(TestCombinations.java:90)	GUI, LOGGING
+tests.TestCombinations.checkForDisabledReadAccess(TestCombinations.java:90)	LOGGING, PRECEDENCE
+tests.TestCombinations.checkForDisabledReadAccess(TestCombinations.java:90)	ACCESS_CONTROL, GUI
+tests.TestCombinations.checkForDisabledReadAccess(TestCombinations.java:90)	ACCESS_CONTROL
+tests.TestCombinations.checkForDisabledReadAccess(TestCombinations.java:90)	GUI
+tests.TestCombinations.checkForDisabledReadAccess(TestCombinations.java:90)	ACCESS_CONTROL, GUI, PRECEDENCE
+tests.TestCombinations.checkForDisabledReadAccess(TestCombinations.java:90)	ACCESS_CONTROL, LOGGING
+tests.TestCombinations.checkForDisabledReadAccess(TestCombinations.java:90)	
+tests.TestCombinations.checkForDisabledReadAccess(TestCombinations.java:90)	ACCESS_CONTROL, PRECEDENCE
+tests.TestCombinations.checkForDisabledReadAccess(TestCombinations.java:90)	ACCESS_CONTROL, GUI, LOGGING, PRECEDENCE
+tests.TestCombinations.checkForDisabledReadAccess(TestCombinations.java:90)	GUI, PRECEDENCE
+tests.TestCombinations.checkForDisabledReadAccess(TestCombinations.java:90)	LOGGING
+tests.TestCombinations.checkForDisabledReadAccess(TestCombinations.java:90)	ACCESS_CONTROL, LOGGING, PRECEDENCE
+tests.TestCombinations.checkForDisabledReadAccess(TestCombinations.java:90)	GUI, LOGGING, PRECEDENCE
+tests.TestCombinations.checkForDisabledReadAccess(TestCombinations.java:90)	ACCESS_CONTROL, GUI, LOGGING
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_WHATEVER, LOGGING
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_NO_MANAGER, GUI, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_WHATEVER, GUI
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_NO_MANAGER
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_NO_DEPARTMENT
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_NO_DEPARTMENT, GUI, LOGGING, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_NO_MANAGER, GUI, LOGGING, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_WHATEVER, GUI, LOGGING
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_NO_MANAGER, LOGGING, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_NO_DEPARTMENT, LOGGING, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_NO_MANAGER, GUI, LOGGING
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_NO_MANAGER, GUI
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_WHATEVER
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_WHATEVER, GUI, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_WHATEVER, LOGGING, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_NO_MANAGER, LOGGING
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_NO_DEPARTMENT, LOGGING
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_NO_DEPARTMENT, GUI
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_NO_DEPARTMENT, GUI, LOGGING
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_NO_DEPARTMENT, GUI, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_WHATEVER, GUI, LOGGING, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_WHATEVER, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_NO_MANAGER, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	CUT_NO_DEPARTMENT, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	TOTAL_REDUCER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	TOTAL_WALKER

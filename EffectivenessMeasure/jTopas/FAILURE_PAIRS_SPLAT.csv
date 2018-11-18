@@ -1,0 +1,29 @@
+Test	Confs. (features enabled)
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	COUNTLINES
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	IMAGEPARTS, LINECOMMENTS
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	IMAGEPARTS
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	IMAGEPARTS, TOKENPOSONLY
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	TOKENPOSONLY
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	IMAGEPARTS, LINECOMMENTS, TOKENPOSONLY
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	COUNTLINES, IMAGEPARTS
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	BLOCKCOMMENTS, COUNTLINES, IMAGEPARTS, TOKENPOSONLY
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	LINECOMMENTS
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	LINECOMMENTS, TOKENPOSONLY
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	COUNTLINES, LINECOMMENTS
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	BLOCKCOMMENTS, LINECOMMENTS, TOKENPOSONLY
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	BLOCKCOMMENTS, COUNTLINES
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	BLOCKCOMMENTS, COUNTLINES, IMAGEPARTS
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	COUNTLINES, LINECOMMENTS, TOKENPOSONLY
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	COUNTLINES, IMAGEPARTS, TOKENPOSONLY
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	BLOCKCOMMENTS, IMAGEPARTS, TOKENPOSONLY
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	BLOCKCOMMENTS, COUNTLINES, TOKENPOSONLY
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	COUNTLINES, IMAGEPARTS, LINECOMMENTS
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	COUNTLINES, IMAGEPARTS, LINECOMMENTS, TOKENPOSONLY
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	BLOCKCOMMENTS, COUNTLINES, LINECOMMENTS
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	BLOCKCOMMENTS, IMAGEPARTS
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	BLOCKCOMMENTS, COUNTLINES, LINECOMMENTS, TOKENPOSONLY
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	BLOCKCOMMENTS, TOKENPOSONLY
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	BLOCKCOMMENTS, LINECOMMENTS
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	BLOCKCOMMENTS
+tests.TestTokenizerFlags.verifyImageParts(TestTokenizerFlags.java:328)	COUNTLINES, TOKENPOSONLY

@@ -1,0 +1,9 @@
+More features besides FM: [EXTENDEDSUDOKU, COLOR]
+Feature Model: (SOLVER | ~GENERATOR) & (STATES | ~UNDO) & (UNDO | ~SOLVER) & (COLOR | EXTENDEDSUDOKU | ~COLOR | ~EXTENDEDSUDOKU)
+Max possible products: 20 
+
+Total failure pairs by VarexJ: 82
+Total failure pairs by SPLat: 48
+Intersection between VarexJ and SPLat: 48
+Failure pairs by VarexJ and not by SPLat: 34
+Failure pairs by SPLat and not by VarexJ: 0

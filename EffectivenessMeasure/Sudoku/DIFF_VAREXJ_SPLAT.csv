@@ -1,0 +1,35 @@
+Test	Confs. (features enabled)
+tests.TestMAB.test02(TestMAB.java:52)	COLOR, EXTENDEDSUDOKU, SOLVER, STATES, UNDO
+tests.TestMAB.test02(TestMAB.java:52)	EXTENDEDSUDOKU, SOLVER, STATES, UNDO
+tests.TestMain.testAverageScenario(TestMain.java:51)	SOLVER, STATES, UNDO
+tests.TestMain.testAverageScenario(TestMain.java:51)	GENERATOR, SOLVER, STATES, UNDO
+tests.TestMain.testAverageScenario(TestMain.java:51)	COLOR, SOLVER, STATES, UNDO
+tests.TestMain.testAverageScenario(TestMain.java:51)	EXTENDEDSUDOKU, SOLVER, STATES, UNDO
+tests.TestMain.testAverageScenario(TestMain.java:51)	COLOR, EXTENDEDSUDOKU, GENERATOR, SOLVER, STATES, UNDO
+tests.TestMain.testAverageScenario(TestMain.java:51)	COLOR, GENERATOR, SOLVER, STATES, UNDO
+tests.TestMain.testAverageScenario(TestMain.java:51)	COLOR, EXTENDEDSUDOKU, SOLVER, STATES, UNDO
+tests.TestMain.testAverageScenario(TestMain.java:51)	EXTENDEDSUDOKU, GENERATOR, SOLVER, STATES, UNDO
+tests.TestMain.testAverageScenario(TestMain.java:52)	EXTENDEDSUDOKU, STATES
+tests.TestMain.testAverageScenario(TestMain.java:52)	COLOR, STATES, UNDO
+tests.TestMain.testAverageScenario(TestMain.java:52)	STATES
+tests.TestMain.testAverageScenario(TestMain.java:52)	COLOR, EXTENDEDSUDOKU, STATES
+tests.TestMain.testAverageScenario(TestMain.java:52)	COLOR, EXTENDEDSUDOKU, STATES, UNDO
+tests.TestMain.testAverageScenario(TestMain.java:52)	COLOR, STATES
+tests.TestMain.testAverageScenario(TestMain.java:52)	EXTENDEDSUDOKU, STATES, UNDO
+tests.TestMain.testAverageScenario(TestMain.java:52)	STATES, UNDO
+tests.TestMain.testWorstScenario(TestMain.java:68)	COLOR, GENERATOR, SOLVER, STATES, UNDO
+tests.TestMain.testWorstScenario(TestMain.java:68)	COLOR, EXTENDEDSUDOKU, STATES, UNDO
+tests.TestMain.testWorstScenario(TestMain.java:68)	EXTENDEDSUDOKU, GENERATOR, SOLVER, STATES, UNDO
+tests.TestMain.testWorstScenario(TestMain.java:68)	COLOR, EXTENDEDSUDOKU, STATES
+tests.TestMain.testWorstScenario(TestMain.java:68)	GENERATOR, SOLVER, STATES, UNDO
+tests.TestMain.testWorstScenario(TestMain.java:68)	COLOR, STATES, UNDO
+tests.TestMain.testWorstScenario(TestMain.java:68)	COLOR, SOLVER, STATES, UNDO
+tests.TestMain.testWorstScenario(TestMain.java:68)	EXTENDEDSUDOKU, STATES
+tests.TestMain.testWorstScenario(TestMain.java:68)	COLOR, EXTENDEDSUDOKU, GENERATOR, SOLVER, STATES, UNDO
+tests.TestMain.testWorstScenario(TestMain.java:68)	SOLVER, STATES, UNDO
+tests.TestMain.testWorstScenario(TestMain.java:68)	STATES
+tests.TestMain.testWorstScenario(TestMain.java:68)	STATES, UNDO
+tests.TestMain.testWorstScenario(TestMain.java:68)	EXTENDEDSUDOKU, STATES, UNDO
+tests.TestMain.testWorstScenario(TestMain.java:68)	EXTENDEDSUDOKU, SOLVER, STATES, UNDO
+tests.TestMain.testWorstScenario(TestMain.java:68)	COLOR, STATES
+tests.TestMain.testWorstScenario(TestMain.java:68)	COLOR, EXTENDEDSUDOKU, SOLVER, STATES, UNDO

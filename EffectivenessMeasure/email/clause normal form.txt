@@ -1,0 +1,6 @@
+(-ENCRYPT___ V DECRYPT___) &
+(-DECRYPT___ V ENCRYPT___) &
+(-ENCRYPT___ V KEYS___) &
+(-SIGN___ V VERIFY___) &
+(-VERIFY___ V SIGN___) &
+(-SIGN___ V KEYS___)

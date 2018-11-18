@@ -1,0 +1,102 @@
+Test	Confs. (features enabled)
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, GUI, LOGGING, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, LOGGING
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, LOGGING, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, GUI
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, GUI, LOGGING
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, GUI, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, GUI, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, GUI, LOGGING, TOTAL_WALKER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, TOTAL_REDUCER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, PRECEDENCE, TOTAL_WALKER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, GUI, TOTAL_WALKER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, GUI, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, LOGGING, TOTAL_WALKER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, GUI, LOGGING, TOTAL_REDUCER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, PRECEDENCE, TOTAL_REDUCER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, GUI, PRECEDENCE, TOTAL_REDUCER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, GUI, PRECEDENCE, TOTAL_WALKER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, LOGGING, TOTAL_REDUCER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, TOTAL_WALKER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, GUI, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_MANAGER, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_MANAGER, LOGGING, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_MANAGER, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, LOGGING, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_WHATEVER, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_MANAGER, LOGGING, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_MANAGER, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_DEPARTMENT, LOGGING, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_DEPARTMENT, LOGGING, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_DEPARTMENT, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_WHATEVER, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_DEPARTMENT, LOGGING
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_WHATEVER, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_WHATEVER, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_DEPARTMENT, LOGGING, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_DEPARTMENT, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_WHATEVER, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_WHATEVER, LOGGING, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, LOGGING, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_WHATEVER, LOGGING, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_MANAGER, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_MANAGER, LOGGING
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_WHATEVER, LOGGING, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_DEPARTMENT, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_DEPARTMENT, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_WHATEVER, LOGGING
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_DEPARTMENT, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_MANAGER, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_MANAGER, LOGGING, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	LOGGING, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	LOGGING, TOTAL_WALKER

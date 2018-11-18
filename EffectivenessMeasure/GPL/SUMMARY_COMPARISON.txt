@@ -1,0 +1,8 @@
+Feature Model: ~DFS & (DIRECTED | UNDIRECTED) & (DFS | ~CYCLE) & (DFS | ~STRONGLYCONNECTED) & (DIRECTED | ~SHORTEST) & (DIRECTED | ~STRONGLYCONNECTED) & (SEARCH | ~BFS) & (SEARCH | ~DFS) & (UNDIRECTED | ~CONNECTED) & (UNDIRECTED | ~MSTKRUSKAL) & (UNDIRECTED | ~MSTPRIM) & (WEIGHTED | ~MSTKRUSKAL) & (WEIGHTED | ~MSTPRIM) & (WEIGHTED | ~SHORTEST) & (~BFS | ~DFS) & (~DIRECTED | ~UNDIRECTED) & (~MSTKRUSKAL | ~MSTPRIM) & (BFS | DFS | ~SEARCH) & (SEARCH | ~BFS | ~CONNECTED) & (SEARCH | ~BFS | ~NUMBER) & (SEARCH | ~CONNECTED | ~DFS) & (SEARCH | ~DFS | ~NUMBER) & (~BFS | ~CONNECTED | ~DFS) & (~BFS | ~DFS | ~NUMBER) & (BFS | DFS | ~CONNECTED | ~SEARCH) & (BFS | DFS | ~NUMBER | ~SEARCH)
+Max possible products: 44 
+
+Total failure pairs by VarexJ: 731
+Total failure pairs by SPLat: 589
+Intersection between VarexJ and SPLat: 396
+Failure pairs by VarexJ and not by SPLat: 335
+Failure pairs by SPLat and not by VarexJ: 193

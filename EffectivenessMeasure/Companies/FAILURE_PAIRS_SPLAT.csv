@@ -1,0 +1,601 @@
+Test	Confs. (features enabled)
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	CUT_WHATEVER, GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	CUT_NO_DEPARTMENT, TOTAL_WALKER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	CUT_NO_DEPARTMENT
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, CUT_WHATEVER, TOTAL_WALKER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, TOTAL_WALKER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	CUT_NO_MANAGER, GUI
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	CUT_NO_DEPARTMENT, TOTAL_REDUCER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, TOTAL_WALKER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	CUT_NO_MANAGER, TOTAL_REDUCER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, CUT_WHATEVER, GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	CUT_NO_DEPARTMENT, GUI
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	CUT_NO_MANAGER, GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	CUT_WHATEVER, TOTAL_REDUCER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	GUI
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	CUT_WHATEVER, TOTAL_WALKER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, CUT_NO_MANAGER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	TOTAL_WALKER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	TOTAL_REDUCER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, CUT_WHATEVER, GUI
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	CUT_WHATEVER, GUI
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	CUT_NO_DEPARTMENT, GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	CUT_WHATEVER, GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	CUT_NO_MANAGER, GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, GUI
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, CUT_WHATEVER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	CUT_NO_MANAGER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, CUT_NO_MANAGER, TOTAL_REDUCER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, CUT_NO_DEPARTMENT
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, CUT_WHATEVER, TOTAL_REDUCER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, CUT_NO_MANAGER, TOTAL_WALKER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, TOTAL_REDUCER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, CUT_WHATEVER, GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, TOTAL_REDUCER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	CUT_WHATEVER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	CUT_NO_DEPARTMENT, GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test5(Pilot_CommandLine.java:36)	CUT_NO_MANAGER, TOTAL_WALKER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	CUT_WHATEVER, GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, GUI
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	CUT_WHATEVER, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	CUT_NO_DEPARTMENT, GUI
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	CUT_NO_MANAGER, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, TOTAL_WALKER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	CUT_WHATEVER, GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	CUT_NO_MANAGER, GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	CUT_NO_MANAGER, GUI
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, CUT_NO_MANAGER, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	CUT_NO_DEPARTMENT, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	CUT_NO_DEPARTMENT
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, CUT_WHATEVER, GUI
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	CUT_NO_DEPARTMENT, TOTAL_WALKER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	CUT_WHATEVER, TOTAL_WALKER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	CUT_NO_MANAGER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	TOTAL_WALKER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	GUI
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, CUT_WHATEVER, GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, CUT_WHATEVER, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, CUT_WHATEVER, GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, CUT_NO_MANAGER, TOTAL_WALKER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	CUT_WHATEVER, GUI
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	CUT_WHATEVER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, CUT_WHATEVER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, TOTAL_WALKER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	CUT_NO_DEPARTMENT, GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	TOTAL_REDUCER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	CUT_NO_MANAGER, GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, CUT_NO_DEPARTMENT
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, CUT_NO_MANAGER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	CUT_NO_MANAGER, TOTAL_WALKER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL, CUT_WHATEVER, TOTAL_WALKER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	CUT_NO_DEPARTMENT, GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test6(Pilot_CommandLine.java:86)	ACCESS_CONTROL
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_WHATEVER, GUI, LOGGING, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_WHATEVER, GUI, LOGGING, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, GUI, LOGGING, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_DEPARTMENT, GUI, LOGGING, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_MANAGER, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_DEPARTMENT, GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_WHATEVER, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_WHATEVER, GUI
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_WHATEVER, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_MANAGER, GUI, LOGGING, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, LOGGING, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_WHATEVER, GUI, LOGGING
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_DEPARTMENT, LOGGING
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	LOGGING
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_WHATEVER, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	LOGGING, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_WHATEVER, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, LOGGING, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_MANAGER, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_MANAGER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, LOGGING, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_WHATEVER, GUI, LOGGING, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_DEPARTMENT, GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_WHATEVER, GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, LOGGING
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_WHATEVER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_MANAGER, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, GUI
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_DEPARTMENT, LOGGING, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_WHATEVER, GUI, LOGGING, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_WHATEVER, GUI, LOGGING
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_WHATEVER, GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, LOGGING
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_WHATEVER, GUI
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, GUI, LOGGING, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	GUI
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_DEPARTMENT
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_MANAGER, LOGGING
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, LOGGING, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	GUI, LOGGING, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_DEPARTMENT, GUI
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_MANAGER, GUI, LOGGING, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_MANAGER, GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_DEPARTMENT, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_MANAGER, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_WHATEVER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, LOGGING
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_WHATEVER, GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_WHATEVER, LOGGING, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_WHATEVER, LOGGING, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	LOGGING, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, LOGGING, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_DEPARTMENT, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_MANAGER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_DEPARTMENT
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_WHATEVER, GUI, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	GUI, LOGGING, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_DEPARTMENT, LOGGING, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_DEPARTMENT, GUI, LOGGING, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_WHATEVER, LOGGING
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_DEPARTMENT, GUI, LOGGING
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, LOGGING, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, GUI, LOGGING
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_MANAGER, GUI, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_MANAGER, LOGGING, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_MANAGER, GUI
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_MANAGER, GUI, LOGGING
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	CUT_NO_MANAGER, LOGGING, TOTAL_REDUCER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING, TOTAL_WALKER
+tests.Pilot_CommandLine.test6PreTrue(Pilot_CommandLine.java:58)	GUI, LOGGING
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, CUT_WHATEVER, TOTAL_WALKER
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, CUT_WHATEVER, GUI, TOTAL_WALKER
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, TOTAL_WALKER
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, GUI, TOTAL_REDUCER
+tests.Pilot.test5(Pilot.java:53)	TOTAL_REDUCER
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, GUI
+tests.Pilot.test5(Pilot.java:53)	CUT_WHATEVER, TOTAL_REDUCER
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, TOTAL_WALKER
+tests.Pilot.test5(Pilot.java:53)	CUT_NO_DEPARTMENT, TOTAL_WALKER
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, GUI, TOTAL_WALKER
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, CUT_WHATEVER, GUI, TOTAL_REDUCER
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, CUT_WHATEVER, GUI
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, TOTAL_REDUCER
+tests.Pilot.test5(Pilot.java:53)	GUI, TOTAL_REDUCER
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, CUT_NO_MANAGER, TOTAL_WALKER
+tests.Pilot.test5(Pilot.java:53)	CUT_WHATEVER, TOTAL_WALKER
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, CUT_NO_DEPARTMENT
+tests.Pilot.test5(Pilot.java:53)	CUT_NO_DEPARTMENT
+tests.Pilot.test5(Pilot.java:53)	GUI
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, CUT_NO_MANAGER
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, CUT_NO_MANAGER, TOTAL_REDUCER
+tests.Pilot.test5(Pilot.java:53)	CUT_WHATEVER, GUI, TOTAL_WALKER
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, TOTAL_WALKER
+tests.Pilot.test5(Pilot.java:53)	CUT_NO_MANAGER, GUI
+tests.Pilot.test5(Pilot.java:53)	CUT_WHATEVER
+tests.Pilot.test5(Pilot.java:53)	CUT_NO_DEPARTMENT, TOTAL_REDUCER
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI
+tests.Pilot.test5(Pilot.java:53)	CUT_NO_DEPARTMENT, GUI, TOTAL_REDUCER
+tests.Pilot.test5(Pilot.java:53)	GUI, TOTAL_WALKER
+tests.Pilot.test5(Pilot.java:53)	CUT_WHATEVER, GUI
+tests.Pilot.test5(Pilot.java:53)	CUT_NO_MANAGER
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, CUT_WHATEVER
+tests.Pilot.test5(Pilot.java:53)	CUT_NO_MANAGER, TOTAL_WALKER
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, TOTAL_WALKER
+tests.Pilot.test5(Pilot.java:53)	CUT_NO_DEPARTMENT, GUI, TOTAL_WALKER
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, CUT_WHATEVER, TOTAL_REDUCER
+tests.Pilot.test5(Pilot.java:53)	CUT_NO_MANAGER, TOTAL_REDUCER
+tests.Pilot.test5(Pilot.java:53)	
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, TOTAL_REDUCER
+tests.Pilot.test5(Pilot.java:53)	CUT_WHATEVER, GUI, TOTAL_REDUCER
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, TOTAL_REDUCER
+tests.Pilot.test5(Pilot.java:53)	CUT_NO_MANAGER, GUI, TOTAL_WALKER
+tests.Pilot.test5(Pilot.java:53)	TOTAL_WALKER
+tests.Pilot.test5(Pilot.java:53)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, TOTAL_REDUCER
+tests.Pilot.test5(Pilot.java:53)	CUT_NO_MANAGER, GUI, TOTAL_REDUCER
+tests.Pilot.test5(Pilot.java:53)	CUT_NO_DEPARTMENT, GUI
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, CUT_WHATEVER
+tests.Pilot.test6(Pilot.java:105)	CUT_NO_MANAGER, TOTAL_REDUCER
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, TOTAL_REDUCER
+tests.Pilot.test6(Pilot.java:105)	CUT_WHATEVER, GUI
+tests.Pilot.test6(Pilot.java:105)	CUT_NO_MANAGER, GUI, TOTAL_REDUCER
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, TOTAL_REDUCER
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, CUT_NO_DEPARTMENT
+tests.Pilot.test6(Pilot.java:105)	GUI
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, CUT_WHATEVER, GUI, TOTAL_WALKER
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, CUT_NO_MANAGER, TOTAL_REDUCER
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, TOTAL_WALKER
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, TOTAL_WALKER
+tests.Pilot.test6(Pilot.java:105)	GUI, TOTAL_REDUCER
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, GUI
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, TOTAL_REDUCER
+tests.Pilot.test6(Pilot.java:105)	CUT_NO_DEPARTMENT, GUI, TOTAL_REDUCER
+tests.Pilot.test6(Pilot.java:105)	CUT_NO_DEPARTMENT, GUI
+tests.Pilot.test6(Pilot.java:105)	CUT_NO_MANAGER, TOTAL_WALKER
+tests.Pilot.test6(Pilot.java:105)	CUT_WHATEVER, TOTAL_WALKER
+tests.Pilot.test6(Pilot.java:105)	CUT_WHATEVER, GUI, TOTAL_WALKER
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, TOTAL_WALKER
+tests.Pilot.test6(Pilot.java:105)	CUT_WHATEVER
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, CUT_NO_MANAGER
+tests.Pilot.test6(Pilot.java:105)	
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, CUT_WHATEVER, GUI
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, CUT_WHATEVER, TOTAL_WALKER
+tests.Pilot.test6(Pilot.java:105)	TOTAL_REDUCER
+tests.Pilot.test6(Pilot.java:105)	CUT_WHATEVER, TOTAL_REDUCER
+tests.Pilot.test6(Pilot.java:105)	CUT_NO_DEPARTMENT, TOTAL_REDUCER
+tests.Pilot.test6(Pilot.java:105)	CUT_NO_DEPARTMENT, GUI, TOTAL_WALKER
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI
+tests.Pilot.test6(Pilot.java:105)	CUT_NO_MANAGER, GUI, TOTAL_WALKER
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, GUI, TOTAL_WALKER
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, CUT_WHATEVER, TOTAL_REDUCER
+tests.Pilot.test6(Pilot.java:105)	CUT_NO_MANAGER, GUI
+tests.Pilot.test6(Pilot.java:105)	GUI, TOTAL_WALKER
+tests.Pilot.test6(Pilot.java:105)	CUT_WHATEVER, GUI, TOTAL_REDUCER
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, TOTAL_REDUCER
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, TOTAL_WALKER
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, CUT_NO_MANAGER, TOTAL_WALKER
+tests.Pilot.test6(Pilot.java:105)	CUT_NO_DEPARTMENT
+tests.Pilot.test6(Pilot.java:105)	CUT_NO_DEPARTMENT, TOTAL_WALKER
+tests.Pilot.test6(Pilot.java:105)	CUT_NO_MANAGER
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI
+tests.Pilot.test6(Pilot.java:105)	TOTAL_WALKER
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, GUI, TOTAL_REDUCER
+tests.Pilot.test6(Pilot.java:105)	ACCESS_CONTROL, CUT_WHATEVER, GUI, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_WHATEVER, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_WHATEVER, GUI, LOGGING
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, GUI, LOGGING, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	LOGGING, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_MANAGER, GUI, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	GUI, LOGGING
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	GUI, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_WHATEVER, GUI, LOGGING, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_DEPARTMENT, LOGGING, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_WHATEVER, LOGGING, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, GUI, LOGGING
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_DEPARTMENT, GUI, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_MANAGER, LOGGING
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_WHATEVER, GUI, LOGGING, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, LOGGING, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_MANAGER, LOGGING, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_DEPARTMENT, LOGGING
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, LOGGING, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_MANAGER, GUI, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_WHATEVER, LOGGING, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, LOGGING, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_WHATEVER, LOGGING
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_DEPARTMENT, GUI
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_DEPARTMENT, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_WHATEVER, GUI, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, LOGGING
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, LOGGING
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_MANAGER, GUI, LOGGING, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_DEPARTMENT, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, GUI, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_MANAGER, GUI, LOGGING, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_WHATEVER, GUI
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, GUI, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL
+tests.Pilot.test6PreTrue(Pilot.java:76)	TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_MANAGER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_WHATEVER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_DEPARTMENT, GUI, LOGGING, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	GUI, LOGGING, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, GUI, LOGGING, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	GUI, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	LOGGING, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_WHATEVER, GUI, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_MANAGER, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_DEPARTMENT
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_MANAGER, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_WHATEVER, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	LOGGING
+tests.Pilot.test6PreTrue(Pilot.java:76)	
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_DEPARTMENT, GUI, LOGGING
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_WHATEVER, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_MANAGER
+tests.Pilot.test6PreTrue(Pilot.java:76)	GUI, LOGGING, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_MANAGER, GUI
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_DEPARTMENT
+tests.Pilot.test6PreTrue(Pilot.java:76)	GUI
+tests.Pilot.test6PreTrue(Pilot.java:76)	TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_WHATEVER, GUI, LOGGING, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, LOGGING, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_WHATEVER, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, LOGGING, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_WHATEVER, GUI
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_WHATEVER, GUI, LOGGING, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, GUI
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_MANAGER, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_MANAGER, LOGGING, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, LOGGING
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_WHATEVER, GUI, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_WHATEVER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, LOGGING, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_DEPARTMENT, GUI, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_MANAGER, GUI, LOGGING
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_WHATEVER, GUI, TOTAL_WALKER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_DEPARTMENT, LOGGING, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_WHATEVER, GUI, LOGGING
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_MANAGER, TOTAL_REDUCER
+tests.Pilot.test6PreTrue(Pilot.java:76)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING
+tests.Pilot.test6PreTrue(Pilot.java:76)	CUT_NO_DEPARTMENT, GUI, LOGGING, TOTAL_WALKER
+tests.TestBasics.testCutBean(TestBasics.java:41)	LOGGING, PRECEDENCE
+tests.TestBasics.testCutBean(TestBasics.java:41)	PRECEDENCE
+tests.TestBasics.testCutBean(TestBasics.java:41)	ACCESS_CONTROL
+tests.TestBasics.testCutBean(TestBasics.java:41)	ACCESS_CONTROL, PRECEDENCE
+tests.TestBasics.testCutBean(TestBasics.java:41)	LOGGING
+tests.TestBasics.testCutBean(TestBasics.java:41)	
+tests.TestBasics.testCutBean(TestBasics.java:41)	GUI, LOGGING
+tests.TestBasics.testCutBean(TestBasics.java:41)	ACCESS_CONTROL, GUI, LOGGING, PRECEDENCE
+tests.TestBasics.testCutBean(TestBasics.java:41)	ACCESS_CONTROL, GUI, LOGGING
+tests.TestBasics.testCutBean(TestBasics.java:41)	GUI, PRECEDENCE
+tests.TestBasics.testCutBean(TestBasics.java:41)	ACCESS_CONTROL, LOGGING
+tests.TestBasics.testCutBean(TestBasics.java:41)	ACCESS_CONTROL, LOGGING, PRECEDENCE
+tests.TestBasics.testCutBean(TestBasics.java:41)	GUI
+tests.TestBasics.testCutBean(TestBasics.java:41)	ACCESS_CONTROL, GUI, PRECEDENCE
+tests.TestBasics.testCutBean(TestBasics.java:41)	ACCESS_CONTROL, GUI
+tests.TestBasics.testCutBean(TestBasics.java:41)	GUI, LOGGING, PRECEDENCE
+tests.TestBasics.testCutPojo(TestBasics.java:29)	ACCESS_CONTROL, GUI, LOGGING, PRECEDENCE
+tests.TestBasics.testCutPojo(TestBasics.java:29)	ACCESS_CONTROL
+tests.TestBasics.testCutPojo(TestBasics.java:29)	ACCESS_CONTROL, PRECEDENCE
+tests.TestBasics.testCutPojo(TestBasics.java:29)	GUI, PRECEDENCE
+tests.TestBasics.testCutPojo(TestBasics.java:29)	ACCESS_CONTROL, LOGGING
+tests.TestBasics.testCutPojo(TestBasics.java:29)	GUI
+tests.TestBasics.testCutPojo(TestBasics.java:29)	GUI, LOGGING
+tests.TestBasics.testCutPojo(TestBasics.java:29)	LOGGING, PRECEDENCE
+tests.TestBasics.testCutPojo(TestBasics.java:29)	
+tests.TestBasics.testCutPojo(TestBasics.java:29)	LOGGING
+tests.TestBasics.testCutPojo(TestBasics.java:29)	PRECEDENCE
+tests.TestBasics.testCutPojo(TestBasics.java:29)	ACCESS_CONTROL, GUI
+tests.TestBasics.testCutPojo(TestBasics.java:29)	ACCESS_CONTROL, GUI, LOGGING
+tests.TestBasics.testCutPojo(TestBasics.java:29)	ACCESS_CONTROL, GUI, PRECEDENCE
+tests.TestBasics.testCutPojo(TestBasics.java:29)	ACCESS_CONTROL, LOGGING, PRECEDENCE
+tests.TestBasics.testCutPojo(TestBasics.java:29)	GUI, LOGGING, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_WHATEVER, GUI, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, LOGGING
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_NO_MANAGER, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, LOGGING
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_WHATEVER
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_WHATEVER, GUI, LOGGING
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, GUI, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, GUI
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, LOGGING, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, LOGGING
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_WHATEVER, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_NO_DEPARTMENT
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_NO_MANAGER
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, GUI, LOGGING, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_WHATEVER, GUI
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_NO_MANAGER, GUI, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_WHATEVER, GUI, LOGGING, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI, LOGGING, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, LOGGING, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, GUI, LOGGING
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, GUI
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:134)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING, PRECEDENCE
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, GUI, TOTAL_WALKER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, PRECEDENCE, TOTAL_REDUCER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, LOGGING, TOTAL_REDUCER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, GUI, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, GUI, LOGGING, TOTAL_REDUCER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, GUI, PRECEDENCE, TOTAL_WALKER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, GUI, LOGGING, TOTAL_WALKER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, TOTAL_REDUCER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, LOGGING, TOTAL_WALKER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, GUI, PRECEDENCE, TOTAL_REDUCER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, TOTAL_WALKER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, GUI, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, PRECEDENCE, TOTAL_WALKER
+tests.TestCombinations.checkWithModel(TestCombinations.java:135)	ACCESS_CONTROL, GUI, TOTAL_REDUCER
+tests.TestProxying.testTotal(TestProxying.java:52)	ACCESS_CONTROL, LOGGING
+tests.TestProxying.testTotal(TestProxying.java:52)	
+tests.TestProxying.testTotal(TestProxying.java:52)	GUI, PRECEDENCE
+tests.TestProxying.testTotal(TestProxying.java:52)	ACCESS_CONTROL, GUI
+tests.TestProxying.testTotal(TestProxying.java:52)	ACCESS_CONTROL, GUI, PRECEDENCE
+tests.TestProxying.testTotal(TestProxying.java:52)	ACCESS_CONTROL, LOGGING, PRECEDENCE
+tests.TestProxying.testTotal(TestProxying.java:52)	ACCESS_CONTROL, PRECEDENCE
+tests.TestProxying.testTotal(TestProxying.java:52)	LOGGING, PRECEDENCE
+tests.TestProxying.testTotal(TestProxying.java:52)	GUI, LOGGING, PRECEDENCE
+tests.TestProxying.testTotal(TestProxying.java:52)	ACCESS_CONTROL, GUI, LOGGING
+tests.TestProxying.testTotal(TestProxying.java:52)	GUI, LOGGING
+tests.TestProxying.testTotal(TestProxying.java:52)	LOGGING
+tests.TestProxying.testTotal(TestProxying.java:52)	PRECEDENCE
+tests.TestProxying.testTotal(TestProxying.java:52)	ACCESS_CONTROL, GUI, LOGGING, PRECEDENCE
+tests.TestProxying.testTotal(TestProxying.java:52)	ACCESS_CONTROL
+tests.TestProxying.testTotal(TestProxying.java:52)	GUI
+tests.TestUndo.testUndoBean(TestUndo.java:54)	PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:54)	ACCESS_CONTROL, LOGGING, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:54)	
+tests.TestUndo.testUndoBean(TestUndo.java:54)	ACCESS_CONTROL
+tests.TestUndo.testUndoBean(TestUndo.java:54)	ACCESS_CONTROL, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:54)	GUI
+tests.TestUndo.testUndoBean(TestUndo.java:54)	ACCESS_CONTROL, GUI, LOGGING, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:54)	ACCESS_CONTROL, GUI, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:54)	LOGGING
+tests.TestUndo.testUndoBean(TestUndo.java:54)	ACCESS_CONTROL, GUI, LOGGING
+tests.TestUndo.testUndoBean(TestUndo.java:54)	ACCESS_CONTROL, LOGGING
+tests.TestUndo.testUndoBean(TestUndo.java:54)	GUI, LOGGING, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:54)	ACCESS_CONTROL, GUI
+tests.TestUndo.testUndoBean(TestUndo.java:54)	GUI, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:54)	LOGGING, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:54)	GUI, LOGGING
+tests.TestUndo.testUndoBean(TestUndo.java:55)	LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_DEPARTMENT, LOGGING, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_MANAGER, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_MANAGER, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_MANAGER, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_DEPARTMENT, LOGGING
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_DEPARTMENT, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_WHATEVER, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_WHATEVER, LOGGING
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_MANAGER, LOGGING
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_DEPARTMENT, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING
+tests.TestUndo.testUndoBean(TestUndo.java:55)	PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_MANAGER, LOGGING, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_MANAGER, LOGGING, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_DEPARTMENT, LOGGING, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_DEPARTMENT, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_DEPARTMENT, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_MANAGER, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_WHATEVER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_DEPARTMENT, LOGGING, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_DEPARTMENT, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_WHATEVER, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_MANAGER, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_DEPARTMENT, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_WHATEVER, LOGGING, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_MANAGER, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, LOGGING, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_WHATEVER, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_WHATEVER, LOGGING, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_MANAGER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_WHATEVER, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_DEPARTMENT, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, LOGGING, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, LOGGING, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_WHATEVER, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_MANAGER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_DEPARTMENT
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_NO_DEPARTMENT, LOGGING, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_WHATEVER, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, PRECEDENCE, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_WHATEVER, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, LOGGING, PRECEDENCE, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_WHATEVER, LOGGING, TOTAL_WALKER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_MANAGER, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	ACCESS_CONTROL, CUT_WHATEVER, LOGGING, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	CUT_NO_MANAGER, LOGGING, PRECEDENCE
+tests.TestUndo.testUndoBean(TestUndo.java:55)	LOGGING, TOTAL_REDUCER
+tests.TestUndo.testUndoBean(TestUndo.java:55)	LOGGING, TOTAL_WALKER
+tests.TestUndo.testUndoPojo(TestUndo.java:40)	GUI, LOGGING, PRECEDENCE
+tests.TestUndo.testUndoPojo(TestUndo.java:40)	ACCESS_CONTROL, GUI, LOGGING
+tests.TestUndo.testUndoPojo(TestUndo.java:40)	ACCESS_CONTROL
+tests.TestUndo.testUndoPojo(TestUndo.java:40)	ACCESS_CONTROL, PRECEDENCE
+tests.TestUndo.testUndoPojo(TestUndo.java:40)	LOGGING, PRECEDENCE
+tests.TestUndo.testUndoPojo(TestUndo.java:40)	GUI, LOGGING
+tests.TestUndo.testUndoPojo(TestUndo.java:40)	ACCESS_CONTROL, GUI, PRECEDENCE
+tests.TestUndo.testUndoPojo(TestUndo.java:40)	PRECEDENCE
+tests.TestUndo.testUndoPojo(TestUndo.java:40)	
+tests.TestUndo.testUndoPojo(TestUndo.java:40)	ACCESS_CONTROL, LOGGING, PRECEDENCE
+tests.TestUndo.testUndoPojo(TestUndo.java:40)	LOGGING
+tests.TestUndo.testUndoPojo(TestUndo.java:40)	GUI
+tests.TestUndo.testUndoPojo(TestUndo.java:40)	GUI, PRECEDENCE
+tests.TestUndo.testUndoPojo(TestUndo.java:40)	ACCESS_CONTROL, GUI
+tests.TestUndo.testUndoPojo(TestUndo.java:40)	ACCESS_CONTROL, GUI, LOGGING, PRECEDENCE
+tests.TestUndo.testUndoPojo(TestUndo.java:40)	ACCESS_CONTROL, LOGGING

@@ -1,0 +1,9 @@
+More features besides FM: [GUI, PRECEDENCE, LOGGING, ACCESS_CONTROL]
+Feature Model: (~CUT_NO_DEPARTMENT | ~CUT_NO_MANAGER) & (~CUT_NO_DEPARTMENT | ~CUT_WHATEVER) & (~CUT_NO_MANAGER | ~CUT_WHATEVER) & (~TOTAL_REDUCER | ~TOTAL_WALKER) & (~CUT_NO_DEPARTMENT | ~CUT_NO_MANAGER | ~CUT_WHATEVER) & (ACCESS_CONTROL | GUI | LOGGING | PRECEDENCE | ~ACCESS_CONTROL | ~GUI | ~LOGGING | ~PRECEDENCE)
+Max possible products: 192 
+
+Total failure pairs by VarexJ: 701
+Total failure pairs by SPLat: 600
+Intersection between VarexJ and SPLat: 499
+Failure pairs by VarexJ and not by SPLat: 202
+Failure pairs by SPLat and not by VarexJ: 101

@@ -1,0 +1,3 @@
+(-UNDO___ V STATES___) & 
+(-GENERATOR___ V SOLVER___) & 
+(-SOLVER___ V UNDO___) 
