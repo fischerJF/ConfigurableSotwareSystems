@@ -1,0 +1,1 @@
+C:\eclipse\submitted-lightweight-fse2013\Elevator\bin;C:\eclipse\submitted-lightweight-fse2013\Elevator\externalResources;C:\eclipse\submitted-lightweight-fse2013\Elevator\externalResources\splat.jar

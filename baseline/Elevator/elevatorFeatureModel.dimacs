@@ -1,0 +1,10 @@
+c 1 base
+c 2 weight
+c 3 empty
+c 4 executivefloor
+c 5 twothirdsfull
+c 6 overloaded
+p cnf 6 3
+-6 2 0 
+-5 2 0 
+1 0

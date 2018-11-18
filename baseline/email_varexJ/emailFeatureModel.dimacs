@@ -1,0 +1,16 @@
+c 1 base	
+c 2 KEYS
+c 3 ENCRYPT
+c 4 AUTORESPONDER
+c 5 ADDRESSBOOK
+c 6 SIGN
+c 7 FORWARD
+c 8 VERIFY
+c 9 DECRYPT
+p cnf 9 6
+-3 9 0
+-9 3 0
+-3 2 0
+-6 8 0
+-8 6 0
+-6 2 0
