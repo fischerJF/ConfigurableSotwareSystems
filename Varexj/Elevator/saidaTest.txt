@@ -1,0 +1,18 @@
+  running jpf with args: +search.class=.search.RandomSearch +classpath=C:\Users\Fischer_PC\Dropbox\workspace_vareJ\Elevator/bin,C:\Users\Fischer_PC\.p2\pool\plugins\org.junit_4.12.0.v201504281640\junit.jar +featuremodel=C:\Users\Fischer_PC\Dropbox\workspace_vareJ\Elevator/elevatorFeatureModel.dimacs
+search started:
+
+system under test
+testset.TestSuiteForVarexJReflect.runTestMethod()
+[WARNING] non-public peer class: gov.nasa.jpf.vm.JPF_java_lang_System$1
+Found feature #1 - base @specifications.Configuration
+Found feature #2 - weight @specifications.Configuration
+Found feature #3 - empty @specifications.Configuration
+Found feature #4 - twothirdsfull @specifications.Configuration
+Found feature #5 - executivefloor @specifications.Configuration
+Found feature #6 - overloaded @specifications.Configuration
+{Tests ran: 21} : True
+
+results
+no errors detected
+Tests ran: 0
+Tempo gasto total (milisegundos): 3956 tempo médio (milisegundos): 3956.0 número de vezes executadas:1
