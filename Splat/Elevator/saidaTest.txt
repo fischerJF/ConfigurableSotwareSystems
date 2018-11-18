@@ -1,0 +1,267 @@
+.....................
+Time: 0,063
+
+OK (21 tests)
+
+.....................
+Time: 0,022
+
+OK (21 tests)
+
+.....................
+Time: 0,019
+
+OK (21 tests)
+
+.....................
+Time: 0,005
+
+OK (21 tests)
+
+.....................
+Time: 0,01
+
+OK (21 tests)
+
+.....................
+Time: 0,006
+
+OK (21 tests)
+
+.....................
+Time: 0,006
+
+OK (21 tests)
+
+.....................
+Time: 0,021
+
+OK (21 tests)
+
+.....................
+Time: 0,006
+
+OK (21 tests)
+
+.....................
+Time: 0,01
+
+OK (21 tests)
+
+.....................
+Time: 0,007
+
+OK (21 tests)
+
+.....................
+Time: 0,009
+
+OK (21 tests)
+
+.................E....
+Time: 0,013
+There was 1 failure:
+1) mutantFor_1_overloadedt_twothirdsfull(testset.MainTest)
+java.lang.ArrayIndexOutOfBoundsException: 3
+	at elevatorsystem_varexj.Elevator.buttonForFloorIsPressed(Elevator.java:272)
+	at elevatorsystem_varexj.Elevator.checkBeforeTimeShift(Elevator.java:169)
+	at elevatorsystem_varexj.Elevator.timeShift(Elevator.java:116)
+	at testset.MainTest.elevatorManipulationForVariabilityTesting(MainTest.java:178)
+	at testset.MainTest.mutantFor_1_overloadedt_twothirdsfull(MainTest.java:57)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:44)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:180)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:41)
+	at org.junit.runners.ParentRunner$1.evaluate(ParentRunner.java:173)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:220)
+	at org.junit.runners.Suite.runChild(Suite.java:117)
+	at org.junit.runners.Suite.runChild(Suite.java:24)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:180)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:41)
+	at org.junit.runners.ParentRunner$1.evaluate(ParentRunner.java:173)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:220)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:159)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:119)
+	at adapter.SamplingAdapter.runConfiguration(SamplingAdapter.java:96)
+	at adapter.SamplingAdapter.samplingRun(SamplingAdapter.java:70)
+	at experiment.Main.searchTime(Main.java:39)
+	at experiment.Main.main(Main.java:20)
+
+FAILURES!!!
+Tests run: 21,  Failures: 1
+
+.....................
+Time: 0,008
+
+OK (21 tests)
+
+.....................
+Time: 0,005
+
+OK (21 tests)
+
+...................E..
+Time: 0,02
+There was 1 failure:
+1) mutantFor_2_weight_empty(testset.MainTest)
+java.lang.ArrayIndexOutOfBoundsException: 3
+	at elevatorsystem_varexj.Elevator.buttonForFloorIsPressed(Elevator.java:272)
+	at elevatorsystem_varexj.Elevator.checkBeforeTimeShift(Elevator.java:169)
+	at elevatorsystem_varexj.Elevator.timeShift(Elevator.java:116)
+	at testset.MainTest.elevatorManipulationForVariabilityTesting(MainTest.java:178)
+	at testset.MainTest.mutantFor_2_weight_empty(MainTest.java:80)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:44)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:180)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:41)
+	at org.junit.runners.ParentRunner$1.evaluate(ParentRunner.java:173)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:220)
+	at org.junit.runners.Suite.runChild(Suite.java:117)
+	at org.junit.runners.Suite.runChild(Suite.java:24)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:180)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:41)
+	at org.junit.runners.ParentRunner$1.evaluate(ParentRunner.java:173)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:220)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:159)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:119)
+	at adapter.SamplingAdapter.runConfiguration(SamplingAdapter.java:96)
+	at adapter.SamplingAdapter.samplingRun(SamplingAdapter.java:74)
+	at experiment.Main.searchTime(Main.java:39)
+	at experiment.Main.main(Main.java:20)
+
+FAILURES!!!
+Tests run: 21,  Failures: 1
+
+.....................
+Time: 0,007
+
+OK (21 tests)
+
+..................E...
+Time: 0,009
+There was 1 failure:
+1) mutantFor_3_twothirdsfull_executivefloor(testset.MainTest)
+java.lang.ArrayIndexOutOfBoundsException: 3
+	at elevatorsystem_varexj.Elevator.buttonForFloorIsPressed(Elevator.java:272)
+	at elevatorsystem_varexj.Elevator.checkBeforeTimeShift(Elevator.java:169)
+	at elevatorsystem_varexj.Elevator.timeShift(Elevator.java:116)
+	at testset.MainTest.elevatorManipulationForVariabilityTesting(MainTest.java:178)
+	at testset.MainTest.mutantFor_3_twothirdsfull_executivefloor(MainTest.java:99)
+	at sun.reflect.GeneratedMethodAccessor23.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:44)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:180)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:41)
+	at org.junit.runners.ParentRunner$1.evaluate(ParentRunner.java:173)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:220)
+	at org.junit.runners.Suite.runChild(Suite.java:117)
+	at org.junit.runners.Suite.runChild(Suite.java:24)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:180)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:41)
+	at org.junit.runners.ParentRunner$1.evaluate(ParentRunner.java:173)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:220)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:159)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:119)
+	at adapter.SamplingAdapter.runConfiguration(SamplingAdapter.java:96)
+	at adapter.SamplingAdapter.samplingRun(SamplingAdapter.java:74)
+	at experiment.Main.searchTime(Main.java:39)
+	at experiment.Main.main(Main.java:20)
+
+FAILURES!!!
+Tests run: 21,  Failures: 1
+
+................E.....
+Time: 0,006
+There was 1 failure:
+1) mutantFor_4_executivefloor_overloaded(testset.MainTest)
+java.lang.ArrayIndexOutOfBoundsException: 3
+	at elevatorsystem_varexj.Elevator.buttonForFloorIsPressed(Elevator.java:272)
+	at elevatorsystem_varexj.Elevator.checkBeforeTimeShift(Elevator.java:169)
+	at elevatorsystem_varexj.Elevator.timeShift(Elevator.java:116)
+	at testset.MainTest.elevatorManipulationForVariabilityTesting(MainTest.java:178)
+	at testset.MainTest.mutantFor_4_executivefloor_overloaded(MainTest.java:119)
+	at sun.reflect.GeneratedMethodAccessor21.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:44)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:15)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:41)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:20)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:44)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:180)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:41)
+	at org.junit.runners.ParentRunner$1.evaluate(ParentRunner.java:173)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:220)
+	at org.junit.runners.Suite.runChild(Suite.java:117)
+	at org.junit.runners.Suite.runChild(Suite.java:24)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:180)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:41)
+	at org.junit.runners.ParentRunner$1.evaluate(ParentRunner.java:173)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:28)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:31)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:220)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:159)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:119)
+	at adapter.SamplingAdapter.runConfiguration(SamplingAdapter.java:96)
+	at adapter.SamplingAdapter.samplingRun(SamplingAdapter.java:74)
+	at experiment.Main.searchTime(Main.java:39)
+	at experiment.Main.main(Main.java:20)
+
+FAILURES!!!
+Tests run: 21,  Failures: 1
+
+.....................
+Time: 0,008
+
+OK (21 tests)
+
+Tempo gasto total (milisegundos): 654 tempo médio (milisegundos): 654.0 número de vezes executadas:1

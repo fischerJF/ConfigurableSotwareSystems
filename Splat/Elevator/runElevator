@@ -1,0 +1,2 @@
+export CLASSPATH=`pwd`/bin:`pwd`/externalResources:`pwd`/externalResources/splat.jar;
+java splat.ElevatorRUN 0 0 100000
